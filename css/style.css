@@ -322,7 +322,7 @@ p {
 
 .modal-thumb:hover,
 .modal-thumb:focus {
-  color: var(--accent-color);
+  fill: var(--accent-color);
 }
 
 .modal-form-field {
